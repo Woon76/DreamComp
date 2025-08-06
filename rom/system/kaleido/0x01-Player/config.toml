@@ -1,0 +1,5 @@
+vram_addr = 0x80800000
+init      = 0x80818DB8
+dest      = 0x8081B7C0
+updt      = 0x80820460
+draw      = 0x8081B2C8
